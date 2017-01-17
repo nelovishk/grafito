@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'grafito'
+puts "este va a ser el comando grafito"
